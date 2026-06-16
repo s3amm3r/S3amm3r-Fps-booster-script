@@ -3,6 +3,12 @@
 An extreme performance engine & Fluent UI toolkit for Roblox.  
 Turns high‑graphics games into smooth, 144+ FPS experiences with the click of a button.
 
+### ORIGINAL LOADSTRING
+
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/s3amm3r/S3amm3r-Fps-booster-script/refs/heads/main/75q5VA35zGkVqLvR9MYhM0ol2ziz3atmQftWS9EuY3F3nX2LE84498BR479bFSzc.lua"))()
+```
+
 ## ⚡ What It Does
 
 - Overhauls lighting, shadows, post‑processing, and audio to reduce CPU/GPU load.
